@@ -10,4 +10,4 @@ Wanted some apis to use for some of my projects, can't seems to find them so i c
 
 ## Todos
 
--   Crawl the latest SSB daily to load into the system
+-   Crawl the latest SSB daily to load into the system. (from [here](https://www.mas.gov.sg/bonds-and-bills/Singapore-Savings-Bonds))
