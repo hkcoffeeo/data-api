@@ -16,9 +16,10 @@
         </header>
         <main>
             <p>A little project to provide some data apis.</p>
+            <p>Here is how the <a href="{{ route('ssb.index') }}" target="_blank">ssb api</a> looks like</p>
         </main>
         <footer>
-            <p>Dive into the code on <a href="https://github.com/hkcoffeeo/data-api">github</a>.</p>
+            <p>Dive into the code on <a href="https://github.com/hkcoffeeo/data-api" target="_blank">github</a>.</p>
         </footer>
     </body>
 </html>
