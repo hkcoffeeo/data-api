@@ -15,10 +15,10 @@
             <h1>Data Apis</h1>
         </header>
         <main>
-            <p>A little project to provide some data apis that I want to use for myself.</p>
+            <p>A little project to provide some data apis.</p>
         </main>
         <footer>
-            <p>Dive into the code on it in the github <a href="https://github.com/hkcoffeeo/kids-notes">github</a>.</p>
+            <p>Dive into the code on <a href="https://github.com/hkcoffeeo/kids-notes">github</a>.</p>
         </footer>
     </body>
 </html>

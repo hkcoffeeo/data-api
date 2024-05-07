@@ -1,6 +1,6 @@
 ## About
 
-Wanted some apis to use for some of my projects, can't seems to find them so i created one.
+Wanted some apis to use for some of my projects, can't seems to find them so i created something simple.
 
 ## Apis
 
