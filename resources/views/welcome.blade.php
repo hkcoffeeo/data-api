@@ -18,7 +18,7 @@
             <p>A little project to provide some data apis.</p>
         </main>
         <footer>
-            <p>Dive into the code on <a href="https://github.com/hkcoffeeo/kids-notes">github</a>.</p>
+            <p>Dive into the code on <a href="https://github.com/hkcoffeeo/data-api">github</a>.</p>
         </footer>
     </body>
 </html>
